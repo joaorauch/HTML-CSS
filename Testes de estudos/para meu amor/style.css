@@ -1,0 +1,46 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Trad+Guides&display=swap');
+
+*{
+    background-attachment: fixed;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #EB3471;
+}
+
+body{
+    background-image: linear-gradient(to bottom, #EB2EDE, #EB3471);
+}
+
+main{
+    text-align: center;
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #490b20be;
+}
+
+h1{
+    color: #660022;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow:  #7a1a3ac9;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 18px;
+    font-family: "Playwrite US Trad Guides", cursive;
+    text-align: justify;
+    color: #660022;
+    text-shadow: 1px 1px 5px #660022;
+}
+
+a{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
